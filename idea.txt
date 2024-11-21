@@ -1,0 +1,2 @@
+Write a tool that summarizes the file types and directories of a given directory 
+path (or just the current one). 
